@@ -18,13 +18,13 @@ Check out the live site on GitHub Pages:
 
 ## 📸 Screenshots
 
-![Homepage](Lingora-Homepage.png)  
+![Homepage](Llngora-Homepage.png)  
 *Homepage with featured courses and carousel*
 
 ![Courses Section](Lingora-courses.png)  
 *Browse language courses and instructors*
 
-![Footer](Lingora-footer.png)  
+![Footer](Lingora-Footer.png)  
 *Custom footer with navigation and branding*
 
 ---
