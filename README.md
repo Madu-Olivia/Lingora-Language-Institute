@@ -18,7 +18,7 @@ Check out the live site on GitHub Pages:
 
 ## 📸 Screenshots
 
-![Homepage](Llngora-Homepage.png)  
+![Homepage](Lingora-Homepage.png)  
 *Homepage with featured courses and carousel*
 
 ![Courses Section](Lingora-courses.png)  
